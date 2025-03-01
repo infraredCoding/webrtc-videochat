@@ -1,0 +1,6 @@
+@videochat_HostAddress = http://localhost:5019
+
+GET {{videochat_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
